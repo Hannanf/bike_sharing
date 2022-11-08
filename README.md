@@ -18,18 +18,26 @@ ______________________________________________________________________
 </h4>
 ______________________________________________________________________
 
+![image](https://user-images.githubusercontent.com/103878061/200686013-5e41b781-a3d3-4b00-9dab-1445c76d95bf.png)
 
 Figure 1 -- User Trips by Gender by Weekday
 
+![image](https://user-images.githubusercontent.com/103878061/200686054-0790e84b-a2e0-4441-abfa-eadc1a9baf07.png)
 
 Figure 2 -- Checkout Times for users 
-
+![image](https://user-images.githubusercontent.com/103878061/200686138-035c959c-3347-4864-8914-57c927a37ef6.png)
 
 Figure 3 -- Checkout Times for Gender
 
+![image](https://user-images.githubusercontent.com/103878061/200686187-9360bd0d-54c5-41ab-8a29-599fba881bcd.png)
+
 Figure 4 -- Trips by Gender (Weekday per Hour)
 
+![image](https://user-images.githubusercontent.com/103878061/200686247-ffd42156-35af-4290-aa93-35d066504cbb.png)
+
 Figure 5 -- Trips by Weekday per Hour 
+
+![image](https://user-images.githubusercontent.com/103878061/200686280-183f01d9-9555-483d-9ba4-e6a809637e53.png)
 
 Figure 6 -- User Trips by Gender by Weekday
 
